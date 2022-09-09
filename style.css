@@ -1,0 +1,114 @@
+#form{
+    padding-top: 30px;
+}
+
+#buttoncon{
+    padding-top: 50px;
+    padding-left: 5cm;
+}
+H2{
+    text-align: center;
+    padding-top:2cm ;
+    padding-bottom: 1.4cm;
+}
+#sign{
+    padding-left: 4cm;
+    padding-top: 0.5cm;
+    padding-bottom: 2cm;
+}
+
+
+#sign a:hover{
+    text-decoration: underline;
+}
+
+
+#copy a{
+    text-decoration: none;
+    color: white;
+}
+#copy a:hover{
+    text-decoration: underline;
+    color: white;
+    font-style: bold;
+}
+#submit{
+    padding-left: 6cm;
+    padding-bottom: 2cm;
+}
+#for{
+    
+    padding-left:8cm;
+    padding-right: 8cm;
+}
+
+#sexe{
+    padding-left: 2.5cm;
+    padding-top: 0.2cm;
+}
+#cnx{
+    padding-left: 3.5cm;
+}
+#avez{
+    padding-left: 1cm;
+    
+   
+}
+#succ{
+    padding-left: 6cm;
+    padding-right: 6cm;
+}
+#yarbi{
+    padding: 5cm;
+}
+
+#cour{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 1.5cm;
+    font-family: italic;
+}
+#way{
+    color: white;
+    background-image:url(pp.jpg) ;
+    background-position: top;
+    background-attachment: fixed;
+    font-size: 70px;
+    text-align: center;
+    padding-bottom: 6cm;
+    padding-top: 4.5cm;
+}
+#pro{
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+#steve{
+    font-size: 40px;
+    padding-top: 3cm;
+   
+    
+    
+}
+#bor:hover{
+    border-left: solid 10px;
+    
+    
+    border-color: red;
+    background-color: rgb(219, 218, 218);
+}
+#bor{
+    text-align: center;
+}
+
+
+#link a{
+    color: black;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+    text-justify: inter-word;
+}
